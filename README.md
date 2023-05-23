@@ -35,4 +35,5 @@ Sample Output
 Explanation
 
 An illustration of the test case follows.
-image
+![1436794554-75e178e325-drawing47](https://github.com/ANGELOANTU7/HackerRank_Largest_Rectangle/assets/94218410/47f57ce7-9fe4-418e-983e-8259aa03feb2)
+
